@@ -1,7 +1,21 @@
 # Manifest — Stunspot's Guide to Automotive Systems
 
-Generated: 2026-06-28T22:11:25+00:00
+Generated: 2026-06-28T22:11:25+00:00  
 Source directory: Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.
+
+## Canon Identity
+
+- **Title:** Stunspot's Guide to Automotive Systems
+- **Public subtitle:** The Automotive Systems Canon
+- **Version:** 1.0
+- **Release date:** 2026-06-28
+- **Author:** Sam “stunspot” Walker / Collaborative Dynamics
+- **License:** CC BY-NC-SA 4.0
+- **Repository:** `Stunspot/stunspots-guide-to-automotive-systems`
+
+## Public Positioning
+
+A model-facing automotive systems canon for AI/RAG use, covering vehicle reality modeling, machine physics, platform architecture, propulsion, chassis dynamics, body and cabin systems, electrical/software architectures, manufacturing, ownership economics, safety regulation, energy transition, performance modification, diagnostic logic, and practitioner workflows.
 
 ## Counts
 
@@ -10,7 +24,65 @@ Source directory: Local build source directory omitted from public release. Sour
 - Omnibus files: 1
 - Unclassified files: 0
 
+## Directory Policy
+
+- `docs/` contains navigation, GitHub Pages files, layout, CSS, and future brand assets.
+- `knowledge-packs/by-report/` contains the canonical individual source reports.
+- `knowledge-packs/compiled-packs/` contains grouped upload packs.
+- `knowledge-packs/omnibus/` contains the whole-corpus bundle.
+- No `docs/reports/` directory is part of this repository.
+
+## Repository File Tree
+
+```text
+.
+├── README.md
+├── LICENSE.md
+├── CITATION.cff
+├── CHANGELOG.md
+├── MANIFEST.md
+├── STATUS.md
+├── manifest.json
+├── docs/
+│   ├── _config.yml
+│   ├── index.md
+│   ├── canon-map.md
+│   ├── how-to-use-this-canon.md
+│   ├── knowledge-packs.md
+│   ├── _layouts/
+│   │   └── default.html
+│   └── assets/
+│       └── css/
+│           └── style.css
+└── knowledge-packs/
+    ├── by-report/
+    │   ├── a-automotive-systems-reality-model.md
+    │   ├── b-automotive-systems-physics.md
+    │   ├── c-automotive-systems-architecture.md
+    │   ├── d-automotive-systems-evolution.md
+    │   ├── e-automotive-propulsion-systems.md
+    │   ├── f-automotive-chassis-and-vehicle-dynamics-systems.md
+    │   ├── g-automotive-body-cabin-and-human-interface-systems.md
+    │   ├── h-automotive-electrical-electronic-and-software-systems.md
+    │   ├── i-automotive-manufacturing-supply-chain-and-quality-systems.md
+    │   ├── j-automotive-market-ownership-and-lifecycle-economics.md
+    │   ├── k-automotive-safety-regulation-and-compliance-systems.md
+    │   ├── l-automotive-energy-transition-and-environmental-systems.md
+    │   ├── m-automotive-performance-motorsport-and-modification-systems.md
+    │   ├── n-automotive-failure-modes-and-diagnostic-logic.md
+    │   └── o-automotive-execution-artifacts-and-practitioner-workflows.md
+    ├── compiled-packs/
+    │   ├── knowledge-automotive-systems-vol-1-a-d-automotive-systems-foundations-how-the-field-becomes-legible.md
+    │   ├── knowledge-automotive-systems-vol-2-e-j-automotive-systems-operating-domains-where-the-real-work-happens.md
+    │   └── knowledge-automotive-systems-vol-4-n-o-automotive-systems-failure-diagnosis-and-execution-how-knowledge-becomes-judgment.md
+    └── omnibus/
+        └── knowledge-automotive-systems-omnibus.md
+```
+
+Referenced but not yet present as files: `docs/assets/brand/readme-hero.png`, `docs/assets/brand/pages-hero.png`, and `docs/assets/brand/social-preview.png`. These placeholder paths are intentionally retained for later brand assets.
+
 ## Source Reports
+
 - `A` — `A. Automotive Systems Reality Model - Mobility, Machines, Markets, and Institutions as One Causal System.md` → `knowledge-packs/by-report/a-automotive-systems-reality-model.md`
 - `B` — `B. Automotive Systems Physics - Motion, Energy, Traction, Heat, Structure, and Control.md` → `knowledge-packs/by-report/b-automotive-systems-physics.md`
 - `C` — `C. Automotive Systems Architecture - Platforms, Packaging, Interfaces, Modularity, and Design Constraint Logic.md` → `knowledge-packs/by-report/c-automotive-systems-architecture.md`
@@ -28,9 +100,13 @@ Source directory: Local build source directory omitted from public release. Sour
 - `O` — `O. Automotive Execution Artifacts and Practitioner Workflows - Inspection Systems, Service Plans, Buying Checklists, Restoration Maps, Build Sheets, and Decision Tools.md` → `knowledge-packs/by-report/o-automotive-execution-artifacts-and-practitioner-workflows.md`
 
 ## Compiled Packs
+
 - `[KNOWLEDGE] - Automotive Systems - Vol. 1 A-D Automotive Systems Foundations - How the Field Becomes Legible.md` → `knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-1-a-d-automotive-systems-foundations-how-the-field-becomes-legible.md`
 - `[KNOWLEDGE] - Automotive Systems - Vol. 2 E-J Automotive Systems Operating Domains - Where the Real Work Happens.md` → `knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-2-e-j-automotive-systems-operating-domains-where-the-real-work-happens.md`
 - `[KNOWLEDGE] - Automotive Systems - Vol. 4 N-O Automotive Systems Failure, Diagnosis, and Execution - How Knowledge Becomes Judgment.md` → `knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-4-n-o-automotive-systems-failure-diagnosis-and-execution-how-knowledge-becomes-judgment.md`
 
+Reports K-M are present as source reports and included in the omnibus, but they are not currently packaged as a separate compiled Vol. 3 bundle.
+
 ## Omnibus
+
 - `[KNOWLEDGE] - Automotive Systems - Omnibus.md` → `knowledge-packs/omnibus/knowledge-automotive-systems-omnibus.md`
