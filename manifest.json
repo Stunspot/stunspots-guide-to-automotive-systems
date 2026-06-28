@@ -1,0 +1,197 @@
+{
+  "canon": {
+    "title": "Stunspot's Guide to Automotive Systems",
+    "slug": "automotive-systems",
+    "version": "1.0",
+    "date_released": "2026-06-28"
+  },
+  "corpus": {
+    "generated_at": "2026-06-28T22:11:25+00:00",
+    "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
+    "reports": [
+      {
+        "code": "A",
+        "title": "Automotive Systems Reality Model",
+        "subtitle": "Mobility, Machines, Markets, and Institutions as One Causal System",
+        "source_filename": "A. Automotive Systems Reality Model - Mobility, Machines, Markets, and Institutions as One Causal System.md",
+        "source_path": "A. Automotive Systems Reality Model - Mobility, Machines, Markets, and Institutions as One Causal System.md",
+        "filename": "a-automotive-systems-reality-model.md",
+        "path": "knowledge-packs/by-report/a-automotive-systems-reality-model.md",
+        "size_bytes": 94922
+      },
+      {
+        "code": "B",
+        "title": "Automotive Systems Physics",
+        "subtitle": "Motion, Energy, Traction, Heat, Structure, and Control",
+        "source_filename": "B. Automotive Systems Physics - Motion, Energy, Traction, Heat, Structure, and Control.md",
+        "source_path": "B. Automotive Systems Physics - Motion, Energy, Traction, Heat, Structure, and Control.md",
+        "filename": "b-automotive-systems-physics.md",
+        "path": "knowledge-packs/by-report/b-automotive-systems-physics.md",
+        "size_bytes": 76716
+      },
+      {
+        "code": "C",
+        "title": "Automotive Systems Architecture",
+        "subtitle": "Platforms, Packaging, Interfaces, Modularity, and Design Constraint Logic",
+        "source_filename": "C. Automotive Systems Architecture - Platforms, Packaging, Interfaces, Modularity, and Design Constraint Logic.md",
+        "source_path": "C. Automotive Systems Architecture - Platforms, Packaging, Interfaces, Modularity, and Design Constraint Logic.md",
+        "filename": "c-automotive-systems-architecture.md",
+        "path": "knowledge-packs/by-report/c-automotive-systems-architecture.md",
+        "size_bytes": 102835
+      },
+      {
+        "code": "D",
+        "title": "Automotive Systems Evolution",
+        "subtitle": "Design Eras, Technology Diffusion, Cultural Meaning, and Industrial Change",
+        "source_filename": "D. Automotive Systems Evolution - Design Eras, Technology Diffusion, Cultural Meaning, and Industrial Change.md",
+        "source_path": "D. Automotive Systems Evolution - Design Eras, Technology Diffusion, Cultural Meaning, and Industrial Change.md",
+        "filename": "d-automotive-systems-evolution.md",
+        "path": "knowledge-packs/by-report/d-automotive-systems-evolution.md",
+        "size_bytes": 66436
+      },
+      {
+        "code": "E",
+        "title": "Automotive Propulsion Systems",
+        "subtitle": "Internal Combustion, Hybrid, Electric, Fuel, Air, Heat, and Drivetrain Logic",
+        "source_filename": "E. Automotive Propulsion Systems - Internal Combustion, Hybrid, Electric, Fuel, Air, Heat, and Drivetrain Logic.md",
+        "source_path": "E. Automotive Propulsion Systems - Internal Combustion, Hybrid, Electric, Fuel, Air, Heat, and Drivetrain Logic.md",
+        "filename": "e-automotive-propulsion-systems.md",
+        "path": "knowledge-packs/by-report/e-automotive-propulsion-systems.md",
+        "size_bytes": 120504
+      },
+      {
+        "code": "F",
+        "title": "Automotive Chassis and Vehicle Dynamics Systems",
+        "subtitle": "Suspension, Steering, Brakes, Tires, Handling, Ride, and Road Feel",
+        "source_filename": "F. Automotive Chassis and Vehicle Dynamics Systems - Suspension, Steering, Brakes, Tires, Handling, Ride, and Road Feel.md",
+        "source_path": "F. Automotive Chassis and Vehicle Dynamics Systems - Suspension, Steering, Brakes, Tires, Handling, Ride, and Road Feel.md",
+        "filename": "f-automotive-chassis-and-vehicle-dynamics-systems.md",
+        "path": "knowledge-packs/by-report/f-automotive-chassis-and-vehicle-dynamics-systems.md",
+        "size_bytes": 74707
+      },
+      {
+        "code": "G",
+        "title": "Automotive Body, Cabin, and Human Interface Systems",
+        "subtitle": "Exterior Design, Interior Ergonomics, Safety Space, Visibility, Comfort, and Meaning",
+        "source_filename": "G. Automotive Body, Cabin, and Human Interface Systems - Exterior Design, Interior Ergonomics, Safety Space, Visibility, Comfort, and Meaning.md",
+        "source_path": "G. Automotive Body, Cabin, and Human Interface Systems - Exterior Design, Interior Ergonomics, Safety Space, Visibility, Comfort, and Meaning.md",
+        "filename": "g-automotive-body-cabin-and-human-interface-systems.md",
+        "path": "knowledge-packs/by-report/g-automotive-body-cabin-and-human-interface-systems.md",
+        "size_bytes": 110313
+      },
+      {
+        "code": "H",
+        "title": "Automotive Electrical, Electronic, and Software Systems",
+        "subtitle": "Sensors, Networks, Control Modules, Diagnostics, ADAS, Infotainment, and Software-Defined Vehicles",
+        "source_filename": "H. Automotive Electrical, Electronic, and Software Systems - Sensors, Networks, Control Modules, Diagnostics, ADAS, Infotainment, and Software-Defined Vehicles.md",
+        "source_path": "H. Automotive Electrical, Electronic, and Software Systems - Sensors, Networks, Control Modules, Diagnostics, ADAS, Infotainment, and Software-Defined Vehicles.md",
+        "filename": "h-automotive-electrical-electronic-and-software-systems.md",
+        "path": "knowledge-packs/by-report/h-automotive-electrical-electronic-and-software-systems.md",
+        "size_bytes": 109765
+      },
+      {
+        "code": "I",
+        "title": "Automotive Manufacturing, Supply Chain, and Quality Systems",
+        "subtitle": "Factories, Suppliers, Materials, Tolerances, Cost Structures, and Production Reality",
+        "source_filename": "I. Automotive Manufacturing, Supply Chain, and Quality Systems - Factories, Suppliers, Materials, Tolerances, Cost Structures, and Production Reality.md",
+        "source_path": "I. Automotive Manufacturing, Supply Chain, and Quality Systems - Factories, Suppliers, Materials, Tolerances, Cost Structures, and Production Reality.md",
+        "filename": "i-automotive-manufacturing-supply-chain-and-quality-systems.md",
+        "path": "knowledge-packs/by-report/i-automotive-manufacturing-supply-chain-and-quality-systems.md",
+        "size_bytes": 97425
+      },
+      {
+        "code": "J",
+        "title": "Automotive Market, Ownership, and Lifecycle Economics",
+        "subtitle": "Buying, Selling, Depreciation, Financing, Insurance, Maintenance Cost, and Residual Value",
+        "source_filename": "J. Automotive Market, Ownership, and Lifecycle Economics - Buying, Selling, Depreciation, Financing, Insurance, Maintenance Cost, and Residual Value.md",
+        "source_path": "J. Automotive Market, Ownership, and Lifecycle Economics - Buying, Selling, Depreciation, Financing, Insurance, Maintenance Cost, and Residual Value.md",
+        "filename": "j-automotive-market-ownership-and-lifecycle-economics.md",
+        "path": "knowledge-packs/by-report/j-automotive-market-ownership-and-lifecycle-economics.md",
+        "size_bytes": 53098
+      },
+      {
+        "code": "K",
+        "title": "Automotive Safety, Regulation, and Compliance Systems",
+        "subtitle": "Crashworthiness, Emissions, Homologation, Liability, Recalls, and Public Risk",
+        "source_filename": "K. Automotive Safety, Regulation, and Compliance Systems - Crashworthiness, Emissions, Homologation, Liability, Recalls, and Public Risk.md",
+        "source_path": "K. Automotive Safety, Regulation, and Compliance Systems - Crashworthiness, Emissions, Homologation, Liability, Recalls, and Public Risk.md",
+        "filename": "k-automotive-safety-regulation-and-compliance-systems.md",
+        "path": "knowledge-packs/by-report/k-automotive-safety-regulation-and-compliance-systems.md",
+        "size_bytes": 96362
+      },
+      {
+        "code": "L",
+        "title": "Automotive Energy Transition and Environmental Systems",
+        "subtitle": "EV Adoption, Hybridization, Fuels, Charging, Batteries, Emissions, and Infrastructure Burdens",
+        "source_filename": "L. Automotive Energy Transition and Environmental Systems - EV Adoption, Hybridization, Fuels, Charging, Batteries, Emissions, and Infrastructure Burdens.md",
+        "source_path": "L. Automotive Energy Transition and Environmental Systems - EV Adoption, Hybridization, Fuels, Charging, Batteries, Emissions, and Infrastructure Burdens.md",
+        "filename": "l-automotive-energy-transition-and-environmental-systems.md",
+        "path": "knowledge-packs/by-report/l-automotive-energy-transition-and-environmental-systems.md",
+        "size_bytes": 111592
+      },
+      {
+        "code": "M",
+        "title": "Automotive Performance, Motorsport, and Modification Systems",
+        "subtitle": "Speed, Durability, Rulesets, Tuning, Aftermarket Engineering, and Competitive Trade-Offs",
+        "source_filename": "M. Automotive Performance, Motorsport, and Modification Systems - Speed, Durability, Rulesets, Tuning, Aftermarket Engineering, and Competitive Trade-Offs.md",
+        "source_path": "M. Automotive Performance, Motorsport, and Modification Systems - Speed, Durability, Rulesets, Tuning, Aftermarket Engineering, and Competitive Trade-Offs.md",
+        "filename": "m-automotive-performance-motorsport-and-modification-systems.md",
+        "path": "knowledge-packs/by-report/m-automotive-performance-motorsport-and-modification-systems.md",
+        "size_bytes": 120473
+      },
+      {
+        "code": "N",
+        "title": "Automotive Failure Modes and Diagnostic Logic",
+        "subtitle": "Breakdowns, Wear, Noise, Leaks, Codes, Misfires, Vibrations, Intermittents, and Root Cause Discipline",
+        "source_filename": "N. Automotive Failure Modes and Diagnostic Logic - Breakdowns, Wear, Noise, Leaks, Codes, Misfires, Vibrations, Intermittents, and Root Cause Discipline.md",
+        "source_path": "N. Automotive Failure Modes and Diagnostic Logic - Breakdowns, Wear, Noise, Leaks, Codes, Misfires, Vibrations, Intermittents, and Root Cause Discipline.md",
+        "filename": "n-automotive-failure-modes-and-diagnostic-logic.md",
+        "path": "knowledge-packs/by-report/n-automotive-failure-modes-and-diagnostic-logic.md",
+        "size_bytes": 109746
+      },
+      {
+        "code": "O",
+        "title": "Automotive Execution Artifacts and Practitioner Workflows",
+        "subtitle": "Inspection Systems, Service Plans, Buying Checklists, Restoration Maps, Build Sheets, and Decision Tools",
+        "source_filename": "O. Automotive Execution Artifacts and Practitioner Workflows - Inspection Systems, Service Plans, Buying Checklists, Restoration Maps, Build Sheets, and Decision Tools.md",
+        "source_path": "O. Automotive Execution Artifacts and Practitioner Workflows - Inspection Systems, Service Plans, Buying Checklists, Restoration Maps, Build Sheets, and Decision Tools.md",
+        "filename": "o-automotive-execution-artifacts-and-practitioner-workflows.md",
+        "path": "knowledge-packs/by-report/o-automotive-execution-artifacts-and-practitioner-workflows.md",
+        "size_bytes": 110640
+      }
+    ],
+    "compiled_packs": [
+      {
+        "label": "Automotive Systems - Vol. 1 A-D Automotive Systems Foundations - How the Field Becomes Legible",
+        "source_filename": "[KNOWLEDGE] - Automotive Systems - Vol. 1 A-D Automotive Systems Foundations - How the Field Becomes Legible.md",
+        "source_path": "[KNOWLEDGE] - Automotive Systems - Vol. 1 A-D Automotive Systems Foundations - How the Field Becomes Legible.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-1-a-d-automotive-systems-foundations-how-the-field-becomes-legible.md",
+        "size_bytes": 341962
+      },
+      {
+        "label": "Automotive Systems - Vol. 2 E-J Automotive Systems Operating Domains - Where the Real Work Happens",
+        "source_filename": "[KNOWLEDGE] - Automotive Systems - Vol. 2 E-J Automotive Systems Operating Domains - Where the Real Work Happens.md",
+        "source_path": "[KNOWLEDGE] - Automotive Systems - Vol. 2 E-J Automotive Systems Operating Domains - Where the Real Work Happens.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-2-e-j-automotive-systems-operating-domains-where-the-real-work-happens.md",
+        "size_bytes": 567699
+      },
+      {
+        "label": "Automotive Systems - Vol. 4 N-O Automotive Systems Failure, Diagnosis, and Execution - How Knowledge Becomes Judgment",
+        "source_filename": "[KNOWLEDGE] - Automotive Systems - Vol. 4 N-O Automotive Systems Failure, Diagnosis, and Execution - How Knowledge Becomes Judgment.md",
+        "source_path": "[KNOWLEDGE] - Automotive Systems - Vol. 4 N-O Automotive Systems Failure, Diagnosis, and Execution - How Knowledge Becomes Judgment.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-4-n-o-automotive-systems-failure-diagnosis-and-execution-how-knowledge-becomes-judgment.md",
+        "size_bytes": 221279
+      }
+    ],
+    "omnibus": [
+      {
+        "label": "Automotive Systems - Omnibus",
+        "source_filename": "[KNOWLEDGE] - Automotive Systems - Omnibus.md",
+        "source_path": "[KNOWLEDGE] - Automotive Systems - Omnibus.md",
+        "dest_path": "knowledge-packs/omnibus/knowledge-automotive-systems-omnibus.md",
+        "size_bytes": 2009717
+      }
+    ],
+    "unclassified": []
+  }
+}

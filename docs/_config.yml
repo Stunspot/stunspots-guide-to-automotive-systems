@@ -1,0 +1,8 @@
+title: Stunspot's Guide to Automotive Systems
+description: A practical canon for automotive systems knowledge, reasoning, and AI/RAG use.
+show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
