@@ -11,6 +11,7 @@
 ![Reports](https://img.shields.io/badge/reports-15-blue)
 ![Compiled%20Packs](https://img.shields.io/badge/compiled_packs-3-blueviolet)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039236.svg)](https://doi.org/10.5281/zenodo.21039236)
 
 *Stunspot's Guide to Automotive Systems* is a Markdown-native knowledge repository built primarily to support AI-assisted reasoning about vehicles as integrated socio-technical systems.
 

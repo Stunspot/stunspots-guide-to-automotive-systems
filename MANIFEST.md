@@ -3,6 +3,11 @@
 Generated: 2026-06-28T22:11:25+00:00  
 Source directory: Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.
 
+## Citation and Archive
+
+**DOI:** https://doi.org/10.5281/zenodo.21039236  
+**Zenodo Record:** https://zenodo.org/records/21039236
+
 ## Canon Identity
 
 - **Title:** Stunspot's Guide to Automotive Systems
