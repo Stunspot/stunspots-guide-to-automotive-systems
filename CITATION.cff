@@ -16,8 +16,12 @@ identifiers:
     value: "10.5281/zenodo.21039236"
 url: "https://stunspot.github.io/stunspots-guide-to-automotive-systems/"
 repository-code: "https://github.com/Stunspot/stunspots-guide-to-automotive-systems"
-abstract: "A model-facing automotive systems canon for AI/RAG knowledge workflows."
+abstract: "A model-facing automotive systems canon for AI/RAG use, covering vehicle reality modeling, machine physics, platform architecture, propulsion, chassis dynamics, body and cabin systems, electrical/software architectures, manufacturing, ownership economics, safety regulation, energy transition, performance modification, diagnostic logic, and practitioner workflows."
 keywords:
   - "automotive-systems"
+  - "vehicle-diagnostics"
+  - "automotive-engineering"
+  - "systems-thinking"
   - "knowledge-systems"
   - "rag"
+  - "ai-knowledge-base"
