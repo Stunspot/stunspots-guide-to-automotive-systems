@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Stunspot's Guide"
+title: "Stunspot's Guide to Automotive Systems"
 message: "If you use this canon, please cite it using this metadata."
 type: dataset
 authors:
@@ -14,3 +14,10 @@ doi: "10.5281/zenodo.21039236"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21039236"
+url: "https://stunspot.github.io/stunspots-guide-to-automotive-systems/"
+repository-code: "https://github.com/Stunspot/stunspots-guide-to-automotive-systems"
+abstract: "A model-facing automotive systems canon for AI/RAG knowledge workflows."
+keywords:
+  - "automotive-systems"
+  - "knowledge-systems"
+  - "rag"
