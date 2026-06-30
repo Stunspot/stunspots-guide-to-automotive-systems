@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/status-first_pass_complete-darkgreen)
 ![Reports](https://img.shields.io/badge/reports-15-blue)
 ![Compiled%20Packs](https://img.shields.io/badge/compiled_packs-3-blueviolet)
-![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-darkgrey)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039236.svg)](https://doi.org/10.5281/zenodo.21039236)
 
 *Stunspot's Guide to Automotive Systems* is a Markdown-native knowledge repository built primarily to support AI-assisted reasoning about vehicles as integrated socio-technical systems.
@@ -171,9 +171,7 @@ Suggested plain-text citation:
 
 ## License
 
-Unless otherwise stated, this repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (**CC BY-NC-SA 4.0**).
-
-Commercial use requires prior written permission from Sam “stunspot” Walker / Collaborative Dynamics.
+Unless otherwise stated, this repository is licensed under **Creative Commons Attribution 4.0 International** (**CC BY 4.0**). Commercial use is allowed with attribution; do not imply endorsement by Sam “stunspot” Walker / Collaborative Dynamics.
 
 ---
 
