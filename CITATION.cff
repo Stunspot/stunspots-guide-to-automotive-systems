@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Stunspot's Guide to Automotive Systems"
+title: "Stunspot's Guide"
 message: "If you use this canon, please cite it using this metadata."
 type: dataset
 authors:
@@ -9,19 +9,8 @@ authors:
     affiliation: "Collaborative Dynamics"
 version: "1.0"
 date-released: "2026-06-28"
-license: "CC-BY-NC-SA-4.0"
+license: "CC-BY-4.0"
 doi: "10.5281/zenodo.21039236"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21039236"
-url: "https://stunspot.github.io/stunspots-guide-to-automotive-systems/"
-repository-code: "https://github.com/Stunspot/stunspots-guide-to-automotive-systems"
-abstract: "A model-facing automotive systems canon for AI/RAG use, covering vehicle reality modeling, machine physics, platform architecture, propulsion, chassis dynamics, body and cabin systems, electrical/software architectures, manufacturing, ownership economics, safety regulation, energy transition, performance modification, diagnostic logic, and practitioner workflows."
-keywords:
-  - "automotive-systems"
-  - "vehicle-diagnostics"
-  - "automotive-engineering"
-  - "systems-thinking"
-  - "knowledge-systems"
-  - "rag"
-  - "ai-knowledge-base"
