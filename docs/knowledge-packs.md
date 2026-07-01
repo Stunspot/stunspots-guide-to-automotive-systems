@@ -97,8 +97,8 @@ The source reports are the canonical individual units of the corpus.
 - [[KNOWLEDGE] - Automotive Systems - Vol. 2 E-J Automotive Systems Operating Domains - Where the Real Work Happens.md](https://github.com/Stunspot/stunspots-guide-to-automotive-systems/blob/main/knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-2-e-j-automotive-systems-operating-domains-where-the-real-work-happens.md)  
   Covers major operating domains: propulsion, chassis, body/cabin/interface, electrical/software, manufacturing, supply chain, and ownership economics.
 
-- **[KNOWLEDGE] - Automotive Systems - Vol. 3 K-M**  
-  Covers safety, regulation, compliance, energy transition, environmental systems, performance, motorsport, and modification systems. Use the compiled-packs directory entry for the exact file name.
+- [[KNOWLEDGE] - Automotive Systems - Vol. 3 K-M Automotive Systems Constraints and Specialized Modes - Where Conditions Change the Rules.md](https://github.com/Stunspot/stunspots-guide-to-automotive-systems/blob/main/knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-3-k-m-automotive-systems-constraints-and-specialized-modes.md)  
+  Covers safety, regulation, compliance, energy transition, environmental systems, performance, motorsport, and modification systems.
 
 - [[KNOWLEDGE] - Automotive Systems - Vol. 4 N-O Automotive Systems Failure, Diagnosis, and Execution - How Knowledge Becomes Judgment.md](https://github.com/Stunspot/stunspots-guide-to-automotive-systems/blob/main/knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-4-n-o-automotive-systems-failure-diagnosis-and-execution-how-knowledge-becomes-judgment.md)  
   Covers field judgment: diagnostic logic, failure modes, repair verification, inspection artifacts, service plans, build sheets, restoration maps, and decision tools.
