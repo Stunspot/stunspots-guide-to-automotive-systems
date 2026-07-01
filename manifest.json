@@ -21,10 +21,10 @@
   },
   "counts": {
     "source_reports": 15,
-    "compiled_packs": 3,
+    "compiled_packs": 4,
     "omnibus_files": 1
   },
-  "packaging_note": "This release includes compiled packs for A-D, E-J, and N-O. Reports K-M are present as individual source reports and included in the omnibus.",
+  "packaging_note": "This release includes compiled packs for A-D, E-J, K-M, and N-O, covering the full A-O canon sequence.",
   "source_authority_notes": [
     "Source reports are the canonical individual units.",
     "Compiled packs and omnibus files are convenience formats.",
