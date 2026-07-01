@@ -12,7 +12,7 @@ Use the **compiled packs** unless you have a specific reason not to.
 
 They preserve major conceptual groupings while avoiding both extremes: fifteen separate files or one very large omnibus. For many AI projects, that is the best practical balance.
 
-Important packaging note: this release includes compiled packs for **A-D**, **E-J**, and **N-O**. Reports **K-M** are available as individual source reports and included in the omnibus, but they are not currently bundled as a separate compiled Vol. 3 pack.
+The compiled-pack set now covers **A-D**, **E-J**, **K-M**, and **N-O**, matching the full A-O source-report sequence.
 
 ---
 
@@ -21,7 +21,7 @@ Important packaging note: this release includes compiled packs for **A-D**, **E-
 | Pack | Files | Path | Best Use |
 |---|---:|---|---|
 | Source reports | 15 | `knowledge-packs/by-report/` | Precise retrieval, selective upload, citation, auditing, editing, and production RAG chunking. |
-| Compiled packs | 3 | `knowledge-packs/compiled-packs/` | Recommended default for many AI tools: grouped coverage with lower file count. |
+| Compiled packs | 4 | `knowledge-packs/compiled-packs/` | Recommended default for many AI tools: grouped full-canon coverage with lower file count. |
 | Omnibus | 1 | `knowledge-packs/omnibus/` | One-file import, local archive, broad search, or robust long-context/RAG systems. |
 
 ---
@@ -39,7 +39,7 @@ Use source reports for:
 - document-level provenance
 - retrieval indexes
 - report editing or review
-- tasks involving K-M, since those reports are not in a separate compiled pack in this release
+- tasks that need the narrowest possible report-level citation trail
 
 ### Use compiled packs when you need practical coverage with fewer files
 
@@ -51,6 +51,7 @@ Use compiled packs for:
 - model-facing project knowledge
 - broad Q&A where citation precision is useful but not strict
 - purchase guidance, repair planning, and ownership analysis workflows that need multiple domains at once
+- full A-O coverage with fewer files than the source-report set
 
 ### Use the omnibus when the system handles large files well
 
@@ -96,6 +97,9 @@ The source reports are the canonical individual units of the corpus.
 - [[KNOWLEDGE] - Automotive Systems - Vol. 2 E-J Automotive Systems Operating Domains - Where the Real Work Happens.md](https://github.com/Stunspot/stunspots-guide-to-automotive-systems/blob/main/knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-2-e-j-automotive-systems-operating-domains-where-the-real-work-happens.md)  
   Covers major operating domains: propulsion, chassis, body/cabin/interface, electrical/software, manufacturing, supply chain, and ownership economics.
 
+- **[KNOWLEDGE] - Automotive Systems - Vol. 3 K-M**  
+  Covers safety, regulation, compliance, energy transition, environmental systems, performance, motorsport, and modification systems. Use the compiled-packs directory entry for the exact file name.
+
 - [[KNOWLEDGE] - Automotive Systems - Vol. 4 N-O Automotive Systems Failure, Diagnosis, and Execution - How Knowledge Becomes Judgment.md](https://github.com/Stunspot/stunspots-guide-to-automotive-systems/blob/main/knowledge-packs/compiled-packs/knowledge-automotive-systems-vol-4-n-o-automotive-systems-failure-diagnosis-and-execution-how-knowledge-becomes-judgment.md)  
   Covers field judgment: diagnostic logic, failure modes, repair verification, inspection artifacts, service plans, build sheets, restoration maps, and decision tools.
 
@@ -104,5 +108,3 @@ The source reports are the canonical individual units of the corpus.
 ## Omnibus
 
 - [[KNOWLEDGE] - Automotive Systems - Omnibus.md](https://github.com/Stunspot/stunspots-guide-to-automotive-systems/blob/main/knowledge-packs/omnibus/knowledge-automotive-systems-omnibus.md)
-
-The omnibus contains the full corpus in one file. It is useful for broad indexing, offline search, and one-file uploads, but source reports remain preferable when provenance and citation granularity matter.
