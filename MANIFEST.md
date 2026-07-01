@@ -12,8 +12,12 @@
 ## Counts
 
 - Source reports: 15
-- Compiled packs: 3
+- Compiled packs: 4
 - Omnibus files: 1
+
+## Packaging Note
+
+Compiled packs now cover A-D, E-J, K-M, and N-O, matching the full A-O source-report sequence.
 
 ## Directory Policy
 
