@@ -9,7 +9,7 @@
 
 ![Status](https://img.shields.io/badge/status-first_pass_complete-darkgreen)
 ![Reports](https://img.shields.io/badge/reports-15-blue)
-![Compiled%20Packs](https://img.shields.io/badge/compiled_packs-3-blueviolet)
+![Compiled%20Packs](https://img.shields.io/badge/compiled_packs-4-blueviolet)
 ![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-darkgrey)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039236.svg)](https://doi.org/10.5281/zenodo.21039236)
 
@@ -50,12 +50,12 @@ Browse the full library:
 This release contains:
 
 - **15 source reports** in [`knowledge-packs/by-report/`](./knowledge-packs/by-report/)
-- **3 compiled packs** in [`knowledge-packs/compiled-packs/`](./knowledge-packs/compiled-packs/)
+- **4 compiled packs** in [`knowledge-packs/compiled-packs/`](./knowledge-packs/compiled-packs/)
 - **1 omnibus file** in [`knowledge-packs/omnibus/`](./knowledge-packs/omnibus/)
 
 `docs/` is the navigation and GitHub Pages layer. The individual source-report corpus lives in `knowledge-packs/by-report/`. Compiled upload bundles live in `knowledge-packs/compiled-packs/`. The whole-corpus bundle lives in `knowledge-packs/omnibus/`.
 
-This release includes compiled packs for **A-D**, **E-J**, and **N-O**. Reports **K-M** are present as individual source reports and are included in the omnibus; they are not currently bundled as a separate compiled pack.
+This release includes compiled packs for **A-D**, **E-J**, **K-M**, and **N-O**, covering the full A-O canon sequence.
 
 ---
 
@@ -139,7 +139,7 @@ See [How to Use This Canon](./docs/how-to-use-this-canon.md) for fuller workflow
     ├── by-report/
     │   └── 15 source-report Markdown files
     ├── compiled-packs/
-    │   └── 3 grouped Markdown upload packs
+    │   └── 4 grouped Markdown upload packs
     └── omnibus/
         └── 1 whole-corpus Markdown bundle
 ```
